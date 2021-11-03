@@ -139,7 +139,7 @@
     "testem": "3.5.0",
     "top-gh-contribs": "2.0.4",
     "tracked-built-ins": "1.1.1",
-    "validator": "7.2.0",
+    "validator": "13.7.0",
     "walk-sync": "3.0.0"
   },
   "ember-addon": {
